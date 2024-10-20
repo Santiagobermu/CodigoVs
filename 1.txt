@@ -1,0 +1,68 @@
+.1
+12
+123
+1234
+12345
+12345678910
+12345678910a
+13453243
+url: https://www.instagram.com/p/BXB4zsUlW5Z/?taken-by=beco.mx
+url: http://instagram.com/p/blablablah
+url: http://itam.mx/test
+http://instagram.com/p/blablablah
+csv1,csv2,csv3,csv4,csv5
+Rodrigo Jiménez Gutiérrez
+5556581111
+56-58-11-12
+302-345-9876
+
+[12],34,36,54,78
+[12,34,5678]
+[1]2,34,56,78
+[12,34,56],78
+
+
+12345678
+hola
+12,34,56,78
+esto es una prueba
+
+prueba@gmail.com
+
+ab12345678
+Cd12345678
+fg13245678
+hi12345678
+
+
+
+
+
+555658
+56-58-11
+56.58.11
+56.78-98
++573104607495
+6 09 87
+76y87r98
+
+esto.es.un.mail+gmail@mail.com
+dominio.com
+[LOG ENTRY] [ERROR] The system is unstable
+[LOG ENTRY] [WARN] The system may be down
+[LOG ENTRY] [LOG] Everything is OK
+[LOG ENTRY] [LOG] [user:@beco] Logged in
+[LOG ENTRY] [LOG] [user:@beco] Clicked here
+[LOG ENTRY] [LOG] [user:@santi] Rated the app
+[LOG ENTRY] [LOG] [user:@beco] Logged out
+
+\w - caracteres de palabras
+\d - digitos
+\s - espacios/invisibles en blanco
+
+[0-9] - \d
+[0-9a-zA-Z_] - \w
+
+* greedy - todo
++ uno o más
+? cero o uno
